@@ -1,2 +1,2 @@
 # eth-global-marketplace
-Hackathon project: Decentralized Marketplace
+ETH-Global Hackathon project: Decentralized Marketplace
